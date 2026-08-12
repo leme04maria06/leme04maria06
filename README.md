@@ -14,20 +14,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-```javascript
-const sobreMim = {
-    nome: "Maria Eduarda",
-    localização: "Sarapuí",
-    interesses: [
-        "homens",
-        "hayday",
-        "assistir reels"
-    ],
-};
-```
+## 👩🏻‍💻 Sobre mim
+
+Olá! Meu nome é **Maria Eduarda** e sou de **Sarapuí**! 💜
+
+- 💻 Atualmente estudando programação
+- 🎮 Gosto de jogar **Hay Day**
+- 📱 Passo um tempinho assistindo **reels**
+- 💕 Interesses: programação, tecnologia 🤭
 ---
 
-## 🚀 Tecnologias
 
 ### 💻 Linguagens
 
