@@ -54,8 +54,8 @@ Olá! Meu nome é **Maria Eduarda** e sou de **Sarapuí**! 💜
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leme04maria06&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leme04maria06&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=leme04maria06&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=leme04maria06&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
