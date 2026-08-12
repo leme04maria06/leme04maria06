@@ -26,10 +26,6 @@ const sobreMim = {
     ],
 };
 ```
-
-> 💡 [Escreva aqui uma pequena apresentação sobre você, sua trajetória,
-> seus interesses e o que você está buscando atualmente.]
-
 ---
 
 ## 🚀 Tecnologias
