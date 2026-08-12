@@ -1,5 +1,99 @@
-## Hi there 👋
+# 👋 Hi criaxs!
 
-<!--
-**leme04maria06/leme04maria06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Olá,%20mundo!&fontSize=40&fontAlignY=35&animation=twinkling"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/leme04maria06">
+    <img src="https://img.shields.io/github/followers/leme04mari06?label=Seguidores&style=for-the-badge&color=181717&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+```javascript
+const sobreMim = {
+    nome: "Maria Eduarda",
+    localização: "Sarapuí",
+    estudando: 
+    interesses: [
+        "homens",
+        "hayday",
+        "assistir reels"
+    ],
+};
+```
+
+> 💡 [Escreva aqui uma pequena apresentação sobre você, sua trajetória,
+> seus interesses e o que você está buscando atualmente.]
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+</p>
+
+### 🎨 Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Back-end & Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Entre em contato
+
+<p align="center">
+  <a href="mailto:lemesilva.maria2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/leme04maria06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Se algum dos meus projetos te ajudar, considere deixar uma estrela!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
