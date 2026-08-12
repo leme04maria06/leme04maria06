@@ -12,8 +12,6 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
-
 ## 👩🏻‍💻 Sobre mim
 
 Olá! Meu nome é **Maria Eduarda** e sou de **Sarapuí**! 💜
