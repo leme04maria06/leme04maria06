@@ -18,7 +18,6 @@
 const sobreMim = {
     nome: "Maria Eduarda",
     localização: "Sarapuí",
-    estudando: 
     interesses: [
         "homens",
         "hayday",
