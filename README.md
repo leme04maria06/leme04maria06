@@ -37,25 +37,25 @@ const sobreMim = {
 ### 💻 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,python,java" />
 </p>
 
 ### 🎨 Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### ⚙️ Back-end & Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
 </p>
 
 ### 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
 </p>
 
 ---
