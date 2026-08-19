@@ -26,7 +26,7 @@ Olá! Meu nome é **Maria Eduarda** e sou de **Sarapuí**! 💜
 ### 💻 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,java" />
+  <img src="https://skillicons.dev/icons?i=js,java" />
 </p>
 
 ### 🎨 Front-end
@@ -38,7 +38,7 @@ Olá! Meu nome é **Maria Eduarda** e sou de **Sarapuí**! 💜
 ### ⚙️ Back-end & Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠️ Ferramentas
